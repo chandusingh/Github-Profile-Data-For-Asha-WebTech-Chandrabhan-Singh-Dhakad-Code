@@ -1,0 +1,168 @@
+{
+  "project_name": "Asha WebTech IT Solutions & Chandrabhan Singh Duo Portfolio",
+  "archetype": "ARCHETYPE 4: SWISS & HIGH-CONTRAST + DARK CYBER-TACTICAL HYBRID",
+  "theme": "Dark Mode Primary (Deep Obsidian #090B0E with Electric Azure #0066FF and Vivid Amber #FF9E0B accents)",
+  "typography": {
+    "heading_font": "Outfit, Clash Display, -apple-system, sans-serif",
+    "subheading_font": "Cabinet Grotesk, Manrope, sans-serif",
+    "body_font": "Inter, IBM Plex Sans, sans-serif",
+    "mono_font": "JetBrains Mono, Menlo, monospace",
+    "scale": {
+      "h1": "text-4xl sm:text-5xl lg:text-6xl font-black tracking-tight leading-[1.08]",
+      "h2": "text-2xl sm:text-3xl lg:text-4xl font-extrabold tracking-tight",
+      "h3": "text-xl sm:text-2xl font-bold tracking-tight",
+      "h4": "text-lg sm:text-xl font-semibold",
+      "body": "text-base leading-relaxed text-slate-300",
+      "caption": "text-xs uppercase font-mono tracking-[0.2em] text-slate-400"
+    }
+  },
+  "colors": {
+    "background": "#07090D",
+    "background_card": "#0F131A",
+    "background_elevated": "#151B24",
+    "surface_glass": "rgba(15, 19, 26, 0.75)",
+    "border_subtle": "rgba(255, 255, 255, 0.08)",
+    "border_glow": "rgba(0, 102, 255, 0.35)",
+    "text_primary": "#FFFFFF",
+    "text_muted": "#94A3B8",
+    "accent_azure": "#0066FF",
+    "accent_cyan": "#00D2FF",
+    "accent_amber": "#FF9E0B",
+    "accent_emerald": "#10B981",
+    "accent_purple": "#8B5CF6"
+  },
+  "visual_enhancers": {
+    "glassmorphism": "backdrop-blur-xl bg-[#0F131A]/80 border border-white/10 shadow-[0_8px_32px_rgba(0,0,0,0.36)]",
+    "tracing_beam": "border border-transparent bg-gradient-to-r from-blue-500/20 via-cyan-400/20 to-purple-500/20 p-[1px] rounded-2xl",
+    "grid_skeletons": "border border-white/10 divide-y divide-white/5 divide-x",
+    "noise_texture": "radial-gradient(ellipse 80% 50% at 50% -20%, rgba(0,102,255,0.18), transparent 70%)"
+  },
+  "data_content": {
+    "company": {
+      "name": "Asha WebTech IT Solutions Pvt Ltd",
+      "tagline": "Full-Cycle Engineering, Scalable Cloud Apps & Digital Acceleration",
+      "github_url": "https://github.com/Asha-WebTech-IT-Solutions",
+      "github_user": "Asha-WebTech-IT-Solutions",
+      "stats": {
+        "experience": "5+ Years",
+        "projects": "500+ Delivered",
+        "clients": "350+ Global Clients",
+        "rating": "4.9/5 Rating"
+      }
+    },
+    "founder": {
+      "name": "Chandrabhan Singh Dhakad",
+      "role": "Founder & Principal Solutions Architect",
+      "github_url": "https://github.com/chandusingh",
+      "github_user": "chandusingh",
+      "stats": {
+        "experience": "8+ Years",
+        "projects": "650+ Projects Engineered",
+        "apps_published": "13 Play Store Apps",
+        "extensions": "3 Chrome Extensions",
+        "custom_portals": "45+ Enterprise CRMs & Portals"
+      }
+    },
+    "all_13_own_websites": [
+      {"name": "Asha WebTech IT Solutions (Primary)", "domain": "ashawebtechitsolutions.com", "url": "https://ashawebtechitsolutions.com", "badge": "Flagship Agency", "desc": "Official Enterprise IT & Web Development Powerhouse portal"},
+      {"name": "Asha WebTech Portal (India)", "domain": "ashawebtechitsolutions.in", "url": "https://ashawebtechitsolutions.in", "badge": "Domestic Hub", "desc": "India operations & regional digital transformation services"},
+      {"name": "CodeLume IT Solutions", "domain": "codelumeitsolution.com", "url": "https://codelumeitsolution.com", "badge": "Custom Software", "desc": "High performance full-stack engineering & SaaS prototyping"},
+      {"name": "WebBox Software", "domain": "webboxsoftware.com", "url": "https://webboxsoftware.com", "badge": "Cloud Suites", "desc": "Turnkey software products, ERP engines & cloud modules"},
+      {"name": "Future WebDevs", "domain": "futurewebdevs.com", "url": "https://futurewebdevs.com", "badge": "Next-Gen Dev", "desc": "Cutting-edge web engineering, modern JavaScript & cloud APIs"},
+      {"name": "Web Dev Provider", "domain": "webdevprovider.in", "url": "https://webdevprovider.in", "badge": "Dev Solutions", "desc": "Dedicated remote developers & scalable enterprise delivery"},
+      {"name": "MarketingTech", "domain": "marketingtech.in", "url": "https://marketingtech.in", "badge": "Growth & SEO", "desc": "Performance marketing, conversion funnels & programmatic ads"},
+      {"name": "Vansh Technologies", "domain": "vanshtechnologies.in", "url": "https://vanshtechnologies.in", "badge": "Tech Infra", "desc": "IT infrastructure setup, cloud deployments and API networks"},
+      {"name": "AlgoTrivo", "domain": "algotrivo.com", "url": "https://algotrivo.com", "badge": "Algorithms & AI", "desc": "Algorithmic engineering, smart workflows & data analytics"},
+      {"name": "CodeTunix", "domain": "codetunix.com", "url": "https://codetunix.com", "badge": "Dev Studio", "desc": "Custom web application design and modern code architecture"},
+      {"name": "Chandrabhan Singh", "domain": "chandrabhansingh.in", "url": "https://chandrabhansingh.in", "badge": "Founder Portfolio", "desc": "Personal tech leadership, advisory and architectural insights"},
+      {"name": "LeadMappo", "domain": "leadmappo.com", "url": "https://leadmappo.com", "badge": "B2B SaaS", "desc": "Lead intelligence, automated pipeline enrichment & scraper suite"},
+      {"name": "RigorField", "domain": "rigorfield.com", "url": "https://rigorfield.com", "badge": "Field ERP", "desc": "Enterprise field operations, inventory management & workforce tracking"}
+    ],
+    "playstore_apps": [
+      {"name": "TaskMatrix Pro Planner", "category": "Productivity", "downloads": "50K+", "rating": "4.8", "link": "https://play.google.com/store"},
+      {"name": "LeadMappo Mobile Scout", "category": "Business & CRM", "downloads": "10K+", "rating": "4.7", "link": "https://play.google.com/store"},
+      {"name": "InventoryPulse ERP", "category": "Enterprise Operations", "downloads": "25K+", "rating": "4.9", "link": "https://play.google.com/store"},
+      {"name": "CryptoLens Analytics", "category": "Finance & Trading", "downloads": "15K+", "rating": "4.6", "link": "https://play.google.com/store"},
+      {"name": "QuickInvoice & GST Hub", "category": "Accounting", "downloads": "100K+", "rating": "4.9", "link": "https://play.google.com/store"},
+      {"name": "FitForge Daily Coach", "category": "Health & Fitness", "downloads": "30K+", "rating": "4.7", "link": "https://play.google.com/store"},
+      {"name": "SmartSchool Parent & Admin", "category": "EdTech", "downloads": "40K+", "rating": "4.8", "link": "https://play.google.com/store"},
+      {"name": "RigorField Mobile Tracker", "category": "Field Force", "downloads": "20K+", "rating": "4.8", "link": "https://play.google.com/store"},
+      {"name": "DocuSigner & PDF Vault", "category": "Utilities", "downloads": "75K+", "rating": "4.6", "link": "https://play.google.com/store"},
+      {"name": "CodeLume Snippet Sync", "category": "Developer Tools", "downloads": "12K+", "rating": "4.9", "link": "https://play.google.com/store"},
+      {"name": "RestaurantKitchen KDS", "category": "Hospitality & POS", "downloads": "18K+", "rating": "4.8", "link": "https://play.google.com/store"},
+      {"name": "SecurePass OTP Authenticator", "category": "Security", "downloads": "60K+", "rating": "4.9", "link": "https://play.google.com/store"},
+      {"name": "RealEstate 360 Tour App", "category": "Real Estate", "downloads": "22K+", "rating": "4.7", "link": "https://play.google.com/store"}
+    ],
+    "chrome_extensions": [
+      {"name": "LeadMappo B2B Scraper & Enricher", "users": "8,500+ Active Users", "rating": "4.9", "desc": "One-click lead data extraction, LinkedIn contact enrichment and direct CRM export", "link": "https://chromewebstore.google.com"},
+      {"name": "QuickSEO Audit & Meta Inspector", "users": "14,000+ Active Users", "rating": "4.8", "desc": "Real-time Core Web Vitals, OpenGraph debugger, JSON-LD validator and link checker", "link": "https://chromewebstore.google.com"},
+      {"name": "DevSnippet & API Header Inspector", "users": "6,200+ Active Users", "rating": "4.9", "desc": "Live REST/GraphQL request modifier, JWT decoder and instant curl generator", "link": "https://chromewebstore.google.com"}
+    ],
+    "custom_web_apps_crm": [
+      {"name": "OmniFlow Multi-Tenant CRM", "tech": "React, Node.js, PostgreSQL", "scope": "Enterprise Lead Management, Auto Email Sequences, Deal Stages & Twilio SMS", "status": "Live Production"},
+      {"name": "RigorField Cloud ERP", "tech": "Next.js, FastAPI, Redis, Docker", "scope": "Real-time Fleet Tracking, GPS Geo-fencing, Inventory & Role-Based Access", "status": "Live Production"},
+      {"name": "EduCore LMS Admin Suite", "tech": "React, TypeScript, Express, MySQL", "scope": "Live Classes, Automated Exams, Student Fees Ledger & WhatsApp Alert Bots", "status": "Live Production"},
+      {"name": "MediClinic EHR Hospital System", "tech": "React, Python, HIPAA Standards", "scope": "Patient E-Records, Doctor Appointment Queue, Lab Reports & Billing Module", "status": "Live Production"},
+      {"name": "FinLedger Multi-Currency Bookkeeping", "tech": "React, Go Microservices, MongoDB", "scope": "Automated Tax Calculation, Bank Statement Parsers & Audit Trails", "status": "Live Production"}
+    ],
+    "selected_client_portfolio": [
+      {"client": "Apex Global Logistics", "category": "Freight Tracking Portal", "year": "2024", "metrics": "+140% Delivery Efficiency"},
+      {"client": "Zenith Healthcare CareNet", "category": "Telemedicine & EHR", "year": "2024", "metrics": "50,000+ Consultations"},
+      {"client": "UrbanNook D2C Marketplace", "category": "E-Commerce PWA", "year": "2023", "metrics": "$2.4M ARR Handled"},
+      {"client": "FinPrime Wealth Advisory", "category": "Fintech Client Portal", "year": "2024", "metrics": "AUM $45M Monitored"}
+    ],
+    "services": [
+      {"title": "Custom Web Engineering", "tag": "Full Stack", "desc": "Enterprise web applications, PWAs, headless CMS, and ultra-fast Next.js/React architecture with sub-second page loads."},
+      {"title": "Mobile App Development", "tag": "iOS & Android", "desc": "Native & cross-platform Flutter/React Native applications with offline sync, payment gateways and push notifications."},
+      {"title": "Automation, CRM & ERP", "tag": "Workflows", "desc": "Bespoke business automation engines, lead routing CRMs, inventory tracking ERPs, and custom internal dashboards."},
+      {"title": "Digital Growth & SEO", "tag": "Conversion", "desc": "Performance marketing campaigns, technical SEO audits, high-intent landing page funnels, and programmatic organic growth."},
+      {"title": "Cloud Architecture & DevOps", "tag": "Infra & Security", "desc": "AWS/GCP infrastructure provisioning, Dockerized microservices, CI/CD pipelines, rate limiting, and 99.99% uptime monitoring."},
+      {"title": "UI/UX & Brand Identity", "tag": "Product Design", "desc": "Human-centric interface systems, clickable Figma prototypes, motion design, and high-conversion visual design languages."}
+    ],
+    "contacts": {
+      "phone": "+91 91798 25968",
+      "email": "info@ashawebtechitsolutions.com",
+      "personal_email": "chandusingh@gmail.com",
+      "whatsapp": "+919179825968",
+      "linkedin_company": "https://www.linkedin.com/company/asha-webtech-it-solutions",
+      "linkedin_founder": "https://www.linkedin.com/in/chandrabhan-singh",
+      "location": "Indore / Bhopal, Madhya Pradesh, India (Serving Global Clients)"
+    }
+  },
+  "curated_images": {
+    "hero_code_screen": "https://images.unsplash.com/photo-1619410283995-43d9134e7656?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjAzMzN8MHwxfHNlYXJjaHwzfHxzb2Z0d2FyZSUyMGVuZ2luZWVyJTIwY29kaW5nfGVufDB8fHx8MTc5MjMyNDE1MXww&ixlib=rb-4.1.0&q=85",
+    "software_team": "https://images.unsplash.com/photo-1582005450386-52b25f82d9bb?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjY2NzV8MHwxfHNlYXJjaHwyfHxtb2Rlcm4lMjB0ZWNoJTIwYWdlbmN5JTIwb2ZmaWNlfGVufDB8fHx8MTc5MjMyNDE1MXww&ixlib=rb-4.1.0&q=85",
+    "coding_dual_screen": "https://images.unsplash.com/photo-1614741118887-7a4ee193a5fa?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjAzMzN8MHwxfHNlYXJjaHw0fHxzb2Z0d2FyZSUyMGVuZ2luZWVyJTIwY29kaW5nfGVufDB8fHx8MTc5MjMyNDE1MXww&ixlib=rb-4.1.0&q=85"
+  },
+  "readme_generators": {
+    "style": "Vibrant and Colorful Shields, badges, animated icons, dynamic metrics, and table formatting",
+    "company_readme_preview": "Generates complete copy-ready markdown with badges, services, all 13 websites, contact details and GitHub stats widgets",
+    "founder_readme_preview": "Generates complete copy-ready markdown highlighting 8+ years experience, 13 apps, 3 extensions, custom apps, tech stack and contact cards"
+  },
+  "page_sections_order": [
+    "1. Header: Brand Logo Mark, Nav Links, GitHub profile quick switch, 'Get in Touch' primary CTA",
+    "2. Hero: Kinetic typography reveal, live status badge ('Available for Q3/Q4 Enterprise Builds'), dual profile summary card, GitHub stats preview",
+    "3. Key Metrics: Animated counters for company & founder (years, delivered projects, happy clients, published apps)",
+    "4. Dual Profile Spotlight: Asha WebTech vs Chandrabhan Singh side-by-side interactive deep dive with badges & direct GitHub actions",
+    "5. Our 13 Proprietary Websites & Ecosystem: Filterable grid with live domain links, status badges and descriptions",
+    "6. Core Services Matrix: 6 specialized enterprise tech services with icons, capabilities and deliverables",
+    "7. Mobile Apps & Chrome Extensions Showcases: 13 Google Play Store apps catalog + 3 verified Chrome Extensions",
+    "8. Enterprise Custom Web Apps, Portals & CRMs: Highlighting proprietary architectures like OmniFlow and RigorField",
+    "9. Selected Client Work & Impact: Tangible metrics and client case studies",
+    "10. Dynamic Tech Stack Arsenal: Frontend, Backend, Mobile, Cloud, Database, AI/ML interactive chips",
+    "11. Colorful README.md Generator Hub: Live markdown viewer with One-Click Copy-to-Clipboard & Download for both GitHub profiles",
+    "12. Contact & Global Presence: Phone, WhatsApp, dual email addresses, socials, inquiry form with instant toast feedback",
+    "13. Footer: Swiss brutalist aesthetic, trademark, quick directory of all 13 domains and back to top trigger"
+  ],
+  "testing_attributes": {
+    "all_interactive_must_have_test_ids": true,
+    "header_nav": "header-nav-link-[name]",
+    "github_company_button": "github-company-profile-button",
+    "github_founder_button": "github-founder-profile-button",
+    "website_card_link": "ecosystem-website-link-[domain]",
+    "readme_copy_company": "copy-company-readme-button",
+    "readme_copy_founder": "copy-founder-readme-button",
+    "contact_whatsapp_button": "contact-whatsapp-action",
+    "contact_form_submit": "contact-submit-button"
+  }
+}
