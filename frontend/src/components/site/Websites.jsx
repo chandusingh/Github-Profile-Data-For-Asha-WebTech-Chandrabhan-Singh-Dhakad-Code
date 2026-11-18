@@ -30,7 +30,7 @@ const Site = ({ w, i }) => (
 export const Websites = () => (
   <section id="websites" data-testid="websites-section" className="py-24 md:py-32">
     <div className="mx-auto max-w-[1400px] px-5 md:px-10">
-      <SectionHead id="websites" index="03" kicker="OUR ALL WEBSITES & SOLUTIONS" title={<>Thirteen brands, <span className="grad-text">all live.</span></>}
+      <SectionHead id="websites" index="04" kicker="OUR ALL WEBSITES & SOLUTIONS" title={<>Thirteen brands, <span className="grad-text">all live.</span></>}
         note="Every website we own and run — listed on both GitHub profiles too." />
       <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-x-6 gap-y-10">
         {WEBSITES.map((w, i) => <Site key={w.domain} w={w} i={i} />)}

@@ -5,7 +5,7 @@ import { SectionHead } from "./Reveal";
 export const Services = () => (
   <section id="services" data-testid="services-section" className="py-24 md:py-32 bg-[#0B0B10] border-y border-white/10">
     <div className="mx-auto max-w-[1400px] px-5 md:px-10">
-      <SectionHead id="services" index="04" kicker="EVERYTHING WE PROVIDE" title={<>Services, end to end.</>}
+      <SectionHead id="services" index="05" kicker="EVERYTHING WE PROVIDE" title={<>Services, end to end.</>}
         note="From the first wireframe to the hundredth lead — design, build, launch and grow." />
       <div className="grid sm:grid-cols-2 lg:grid-cols-4 lg:auto-rows-[minmax(220px,auto)] gap-4">
         {SERVICES.map((s, i) => (

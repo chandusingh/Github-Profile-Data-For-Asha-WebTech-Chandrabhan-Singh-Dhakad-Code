@@ -4,6 +4,7 @@ import { Logo } from "./Logo";
 
 const LINKS = [
   ["Profiles", "#profiles"],
+  ["Founder", "#founder"],
   ["Websites", "#websites"],
   ["Services", "#services"],
   ["Apps", "#apps"],

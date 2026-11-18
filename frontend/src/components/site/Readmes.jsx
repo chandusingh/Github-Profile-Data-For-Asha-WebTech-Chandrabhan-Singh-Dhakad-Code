@@ -29,7 +29,7 @@ export const Readmes = () => {
   return (
     <section id="readme" data-testid="readme-section" className="py-24 md:py-32">
       <div className="mx-auto max-w-[1400px] px-5 md:px-10">
-        <SectionHead id="readme" index="07" kicker="GITHUB PROFILE README CODE" title={<>Your two READMEs, <span className="grad-text">redesigned.</span></>}
+        <SectionHead id="readme" index="08" kicker="GITHUB PROFILE README CODE" title={<>Your two READMEs, <span className="grad-text">redesigned.</span></>}
           note="Colorful, vibrant markdown with stats, all 13 websites, services, apps and contact. Paste into the README.md of a repo named exactly like your username." />
         <Reveal>
           <div className="flex flex-wrap items-center gap-3 mb-4">

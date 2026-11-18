@@ -5,7 +5,7 @@ import { Reveal, SectionHead } from "./Reveal";
 export const WebApps = () => (
   <section id="webapps" data-testid="webapps-section" className="py-24 md:py-32 bg-[#0B0B10] border-y border-white/10">
     <div className="mx-auto max-w-[1400px] px-5 md:px-10">
-      <SectionHead id="webapps" index="06" kicker="CUSTOM WEB APPS · CRMS · ADMIN PANELS" title={<>Software that runs <span className="outline-text">businesses.</span></>}
+      <SectionHead id="webapps" index="07" kicker="CUSTOM WEB APPS · CRMS · ADMIN PANELS" title={<>Software that runs <span className="outline-text">businesses.</span></>}
         note="Dashboards, CRMs and admin systems we designed and engineered for clients." />
       <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-px bg-white/10 border border-white/10 rounded-2xl overflow-hidden">
         {WEB_APPS.map((a, i) => (

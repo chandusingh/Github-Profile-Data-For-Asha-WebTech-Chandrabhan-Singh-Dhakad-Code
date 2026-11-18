@@ -17,7 +17,7 @@ const Row = ({ item, i, icon: Icon, prefix }) => (
 export const Apps = () => (
   <section id="apps" data-testid="apps-section" className="py-24 md:py-32">
     <div className="mx-auto max-w-[1400px] px-5 md:px-10">
-      <SectionHead id="apps" index="05" kicker="ANDROID APPS & CHROME EXTENSIONS" title={<>In your pocket. <span className="grad-text">In your browser.</span></>}
+      <SectionHead id="apps" index="06" kicker="ANDROID APPS & CHROME EXTENSIONS" title={<>In your pocket. <span className="grad-text">In your browser.</span></>}
         note="13 apps live on Google Play and 3 extensions on the Chrome Web Store." />
       <div className="grid lg:grid-cols-12 gap-10">
         <Reveal className="lg:col-span-7">
